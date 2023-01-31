@@ -7,5 +7,7 @@ public class Main {
         System.out.println("text two!");
         System.out.println("text one!");
         System.out.println("text two!");
+        System.out.println("text one!");
+        System.out.println("text two!");
     }
 }
